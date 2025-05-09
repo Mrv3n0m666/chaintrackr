@@ -26,8 +26,6 @@ ChainTrackr is a lightweight, extensible backend service that allows users to re
 
 ## Directory Structure
 
-## Directory Structure
-
 - `chaintrackr/`
   - `src/`
     - `controllers/` - Request handlers (address, auth, etc.)
