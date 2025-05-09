@@ -24,16 +24,22 @@ ChainTrackr is a lightweight, extensible backend service that allows users to re
 
 ## 📂 Struktur Folder
 
-src/
-├── controllers/
-├── entities/
-├── routes/
-├── services/
-├── middlewares/
-├── validators/
-├── docs/ <- Swagger config
-├── index.ts
-├── data-source.ts
+chaintrackr/
+├── src/
+│ ├── controllers/ # Request handlers (address, auth, etc.)
+│ ├── entities/ # TypeORM entity definitions (User, Address)
+│ ├── routes/ # API route definitions
+│ ├── services/ # Business logic services
+│ ├── middlewares/ # Express middlewares (e.g., auth)
+│ ├── validators/ # Zod validation schemas
+│ ├── docs/ # Swagger configuration
+│ ├── data-source.ts # Database configuration (TypeORM)
+│ └── index.ts # Entry point of the app
+├── .env # Environment variables
+├── docker-compose.yml # Docker setup (Postgres + App)
+├── tea.yaml # Metadata for Tea.xyz open-source registry
+├── README.md
+└── tsconfig.json # TypeScript config
 
 
 ## ⚙️ Getting Started
