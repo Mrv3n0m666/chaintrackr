@@ -96,6 +96,7 @@ http://localhost:3001/api-docs
 
 ## Contributing to Tea.xyz Ecosystem
 [![tea](https://img.shields.io/badge/tea-ChainTrackr-brightgreen)](https://tea.xyz)
+[![npm version](https://badge.fury.io/js/chaintrackr-backend.svg)](https://www.npmjs.com/package/chaintrackr-backend)
 
 ChainTrackr is built to be flexible and ready for integration into the [Tea.xyz](https://tea.xyz) ecosystem. If you're interested in contributing to a decentralized package registry and supporting the next generation of web3 infrastructure, feel free to:
 
