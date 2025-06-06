@@ -1,24 +1,29 @@
-version: 1.0
-
 project:
-  name: chaintrackr
-  description: A backend service to track Ethereum addresses, balances and activity.
-  entrypoint: npm run dev
-  language: typescript
-  frameworks: [express]
-
-dependencies:
-  - node
-  - npm
-  - typescript
-  - ts-node
-  - ts-node-dev
-  - typeorm
-  - zod
-  - bcrypt
-  - jsonwebtoken
-  - dotenv
-  - express
-  - cors
-  - pg
-  - reflect-metadata
+  id: chaintrackr
+  name: ChainTrackr
+  description: >
+    ChainTrackr is an open-source wallet tracking API backend that allows users
+    to store, query, and manage blockchain wallet addresses. It supports authentication,
+    CRUD operations, and integrates with services like Moralis to fetch token, NFT, and coin balances.
+  homepage: https://github.com/Mrv3n0m666/chaintrackr
+  license: MIT
+  keywords:
+    - blockchain
+    - wallet
+    - explorer
+    - typescript
+    - backend
+    - tea.xyz
+    - open-source
+  maintainers:
+    - github: Mrv3n0m666
+  source:
+    type: git
+    url: https://github.com/Mrv3n0m666/chaintrackr.git
+    branch: main
+  tea:
+    version: 1.0.0
+    ecosystem: nodejs
+    support:
+      issues: https://github.com/Mrv3n0m666/chaintrackr/issues
+      discussions: https://github.com/Mrv3n0m666/chaintrackr/discussions

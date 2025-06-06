@@ -1,6 +1,6 @@
 {
-  "name": "chaintrackr-backend",
-  "version": "1.0.5",
+  "name": "@Mrv3n0m666/chaintrackr-backend",
+  "version": "1.0.6",
   "description": "Track Ethereum addresses with authentication and database support",
   "main": "src/index.ts",
   "scripts": {
@@ -11,6 +11,9 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",

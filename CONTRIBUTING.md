@@ -37,4 +37,4 @@ Thank you for contributing to Chaintrackr!
 - Use clear commit messages (e.g., "Fix typo in README" or "Add token balance endpoint").
 
 ## Questions?
-Join our [GitHub Discussions](https://github.com/Mrv3n0m666/chaintrackr/discussions) or open an issue.
+[GitHub Discussions](https://github.com/Mrv3n0m666/chaintrackr/discussions)
