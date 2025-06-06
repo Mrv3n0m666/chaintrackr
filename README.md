@@ -1,5 +1,4 @@
 # 🧠 ChainTrackr
-[![npm version](https://img.shields.io/npm/v/@mrv3n0m/secure-env)](https://www.npmjs.com/package/@mrv3n0m/secure-env)
 
 ChainTrackr is a lightweight, extensible backend service that allows users to register, log in, and manage their crypto wallet addresses securely. It provides a clean and modern RESTful API for user authentication and address management, built with TypeScript, Express, and TypeORM.
 
