@@ -27,3 +27,6 @@ project:
     support:
       issues: https://github.com/Mrv3n0m666/chaintrackr/issues
       discussions: https://github.com/Mrv3n0m666/chaintrackr/discussions
+  codeOwners:
+    - 0x7d8d9E268Ab62C038d163B6aF37ccaa013e5606a
+  quorum: 1
